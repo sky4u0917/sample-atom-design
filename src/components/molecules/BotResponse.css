@@ -1,0 +1,6 @@
+.bot-response {
+  display: flex;
+  align-items: center;
+  background-color: aliceblue;
+  justify-content: flex-end;
+}
